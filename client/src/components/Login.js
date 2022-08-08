@@ -1,8 +1,8 @@
-import { useState } from "react";
-import styled from "styled-components";
-import LoginForm from "../components/LoginForm";
-import SignUpForm from "../components/SignUpForm";
-import { Button } from "../styles";
+import { useState } from 'react';
+import styled from 'styled-components';
+import LoginForm from './LoginForm';
+import SignUpForm from './SignUpForm';
+import { Button } from '../styles';
 
 function Login({ onLogin }) {
   const [showLogin, setShowLogin] = useState(true);
@@ -16,7 +16,7 @@ function Login({ onLogin }) {
           <Divider />
           <p>
             Don't have an account? &nbsp;
-            <Button color="secondary" onClick={() => setShowLogin(false)}>
+            <Button color='secondary' onClick={() => setShowLogin(false)}>
               Sign Up
             </Button>
           </p>
@@ -27,7 +27,7 @@ function Login({ onLogin }) {
           <Divider />
           <p>
             Already have an account? &nbsp;
-            <Button color="secondary" onClick={() => setShowLogin(true)}>
+            <Button color='secondary' onClick={() => setShowLogin(true)}>
               Log In
             </Button>
           </p>
@@ -38,7 +38,7 @@ function Login({ onLogin }) {
 }
 
 const Logo = styled.h1`
-  font-family: "Permanent Marker", cursive;
+  font-family: 'Permanent Marker', cursive;
   font-size: 3rem;
   color: deeppink;
   margin: 8px 0 16px;
