@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import Login from './Login';
-import WorkoutList from './WorkoutList';
+import MapPage from './MapPage';
 
 function App() {
   const [user, setUser] = useState(null);
@@ -23,7 +23,7 @@ function App() {
             <Login onLogin={setUser} />
           </Route>
           <Route exact path='/'>
-            <WorkoutList />
+            <MapPage />
           </Route>
         </Switch>
       </main>
