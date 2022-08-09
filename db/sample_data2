@@ -1,0 +1,1121 @@
+
+https://hoteldatasets.com/[
+{
+name: "Holiday Inn Express Cabo San Lucas",
+brand: "holiday-inn-express",
+address_text: "Corredor Csl - SJD KM. 4.5, Col. El Tezal, Cabo San Lucas 23454, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/cabo-san-lucas/sjdsl/hoteldetail",
+latitude: 22.902735,
+longitude: -109.884096,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express Veracruz Boca del Rio",
+brand: "holiday-inn-express",
+address_text: "Blvd. Adolfo Ruiz Cortines :4298 A, Fracc. Costa De Oro, Boca Del Rio 94299, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/boca-del-rio/verpp/hoteldetail",
+latitude: 19.141682,
+longitude: -96.10317,
+amenities: [
+"Free Breakfast",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Veracruz Boca del Rio",
+brand: "holiday-inn",
+address_text: "Blvd. Adolfo Ruiz Cortinez : 4298, Fracc. Costa De Oro, Boca Del Rio 94299, Mexico",
+rating: 4.6,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/boca-del-rio/vcrmx/hoteldetail",
+latitude: 19.141812,
+longitude: -96.10334,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Health/Fitness Center",
+"Parking Included"
+]
+},
+{
+name: "Hotel Indigo Veracruz Boca Del Rio",
+brand: "hotel-indigo",
+address_text: "BLVD. ADOLFO RUIZ CORTINES :3533, FRACC. LAS AMERICAS, BOCA DEL RIO 94298, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/hotelindigo/hotels/us/en/boca-del-rio/verin/hoteldetail",
+latitude: 19.142938,
+longitude: -96.104236,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Pets Allowed",
+"Business Center",
+"Health/Fitness Center",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Veracruz Centro Historico",
+brand: "holiday-inn",
+address_text: "Calle Morelos #225, Col. Centro, Veracruz 91700, Mexico",
+rating: 4.3,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/veracruz/vcrdt/hoteldetail",
+latitude: 19.201983,
+longitude: -96.138893,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"No Pets Allowed",
+"Kids Eat Free",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express & Suites Celaya",
+brand: "holiday-inn-express",
+address_text: "Eje Nor-Oriente Luis Donaldo Colosio 285, Col. Las Delicias, Celaya 38080, Mexico",
+rating: 4.8,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/celaya/bjxce/hoteldetail",
+latitude: 20.51677,
+longitude: -100.779269,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Area Shuttle",
+"Health/Fitness Center",
+"Kitchenette",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Candlewood Suites Celaya",
+brand: "candlewood-suites",
+address_text: "Av. Eje Nor-Oriente 215, Manzana 177, Casi esq. con Ribera del Campestre, Col. Predio Rustico (denominado Tabla Grande), Celaya 38080, Mexico",
+rating: 4.9,
+url: "https://www.ihg.com/candlewood/hotels/us/en/celaya/bjxca/hoteldetail",
+latitude: 20.5238618,
+longitude: -100.7781506,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Wireless Internet",
+"Pets Allowed",
+"Business Center",
+"Health/Fitness Center",
+"Full Kitchen",
+"Area Shuttle",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express & Suites Queretaro ",
+brand: "holiday-inn-express",
+address_text: "Av.5 De Febrero: 110 Bis, Col. Ninos Heroes, Queretaro 76010, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/queretaro/mqerg/hoteldetail",
+latitude: 20.583446,
+longitude: -100.408538,
+amenities: [
+"Free Breakfast",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Full Kitchen",
+"Kitchenette",
+"No Pets Allowed",
+"Kids Eat Free",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Queretaro-Centro Historico",
+brand: "holiday-inn",
+address_text: "Av.5 De Febrero : 110, Col. Ninos Heroes, Queretaro 76010, Mexico",
+rating: 4.6,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/queretaro/mqemx/hoteldetail",
+latitude: 20.584956,
+longitude: -100.409774,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Queretaro Zona Krystal",
+brand: "holiday-inn",
+address_text: "KM. 11, Carretera Queretaro-San Luis Potosi, Queretaro 76100, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/queretaro/mqebc/hoteldetail",
+latitude: 20.66294,
+longitude: -100.431745,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Area Shuttle",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Queretaro Zona Diamante",
+brand: "holiday-inn",
+address_text: "Anillo Vial II, Fray Junipero Serra : 1500 - A, Col. Arboledas, Queretaro 76140, Mexico",
+rating: 4.6,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/queretaro/mqeap/hoteldetail",
+latitude: 20.620439,
+longitude: -100.38394,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kitchenette",
+"Kids Eat Free",
+"No Pets Allowed",
+"Airport Shuttle",
+"Parking Included"
+]
+},
+{
+name: "Crowne Plaza Queretaro",
+brand: "crowne-plaza",
+address_text: "ANILLO VIAL II, FRAY JUNIPERO SERRA : 1500, QUERETARO 76140, Mexico",
+rating: 4.6,
+url: "https://www.ihg.com/crowneplaza/hotels/us/en/queretaro/mqecc/hoteldetail",
+latitude: 20.619217,
+longitude: -100.383278,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Staybridge Suites Queretaro",
+brand: "staybridge-suites",
+address_text: "Carreta San Luis-Queretaro 10685, Col. El Salitre Junto A Jurica, Queretaro 76127, Mexico",
+rating: 4.6,
+url: "https://www.ihg.com/staybridge/hotels/us/en/queretaro/mqesb/hoteldetail",
+latitude: 20.662674,
+longitude: -100.433165,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Wireless Internet",
+"Pets Allowed",
+"Business Center",
+"Airport Shuttle",
+"Area Shuttle",
+"Health/Fitness Center",
+"Full Kitchen",
+"Kids Eat Free",
+"Parking Included"
+]
+},
+{
+name: "Candlewood Suites Queretaro Juriquilla",
+brand: "candlewood-suites",
+address_text: "Santa Teresa 502 Int. A, Fracc. Residencial Juriquilla Santa Fe, Queretaro 76226, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/candlewood/hotels/us/en/juriquilla/qroja/hoteldetail",
+latitude: 20.691609,
+longitude: -100.445619,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Pets Allowed",
+"Business Center",
+"Health/Fitness Center",
+"Full Kitchen",
+"Parking Included"
+]
+},
+{
+name: "Mr & Mrs Smith Casa No Name",
+brand: "mr-and-mrs-smith",
+address_text: "No. 52 Hernandez Macia, San Miguel de Allende 37700, Mexico",
+rating: null,
+url: "https://www.ihg.com/mrandmrssmith/hotels/us/en/san-miguel-de-allende/bjxsd/hoteldetail",
+latitude: 20.9163139,
+longitude: -100.7451721,
+amenities: [
+"Wireless Internet",
+"No Pets Allowed"
+]
+},
+{
+name: "Mr & Mrs Smith L'Otel @ Dôce 18 Concept House",
+brand: "mr-and-mrs-smith",
+address_text: "Relox 18, Centro, Zona Centro, San Miguel de Allende 37700, Mexico",
+rating: null,
+url: "https://www.ihg.com/mrandmrssmith/hotels/us/en/san-miguel-de-allende/bjxda/hoteldetail",
+latitude: 20.915111,
+longitude: -100.7434763,
+amenities: [
+"Pool",
+"Wireless Internet",
+"No Pets Allowed"
+]
+},
+{
+name: "Holiday Inn Tampico Altamira",
+brand: "holiday-inn",
+address_text: "Km 16 Carretera Tampico Mante, Municipo De Altamira, Altamira 89609, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/altamira/tamal/hoteldetail",
+latitude: 22.4082,
+longitude: -97.9264,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Airport Shuttle",
+"Area Shuttle",
+"Health/Fitness Center",
+"Kitchenette",
+"No Pets Allowed",
+"Kids Eat Free",
+"Spa",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Campeche",
+brand: "holiday-inn",
+address_text: "Av. Resurgimiento #127, Col. del Prado, Campeche 24040, Mexico",
+rating: 4.5,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/campeche/cpemx/hoteldetail",
+latitude: 19.83082,
+longitude: -90.56054,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Airport Shuttle",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express & Suites Monterrey Aeropuerto",
+brand: "holiday-inn-express",
+address_text: "BLVD. AEROPUERTO : 400, PARQUE INDUSTRIAL MILENIUM, MONTERREY 66600, Mexico",
+rating: 4.5,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/monterrey/mtyzo/hoteldetail",
+latitude: 25.786257,
+longitude: -100.13644,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Airport Shuttle",
+"Area Shuttle",
+"Health/Fitness Center",
+"Full Kitchen",
+"Kitchenette",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Crowne Plaza Monterrey Aeropuerto",
+brand: "crowne-plaza",
+address_text: "BLVD. AEROPUERTO : 171, COL. PARQUE INDUSTRIAL NEXXUS, MONTERREY 66600, Mexico",
+rating: 4.3,
+url: "https://www.ihg.com/crowneplaza/hotels/us/en/monterrey/mtycp/hoteldetail",
+latitude: 25.78613,
+longitude: -100.135718,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Airport Shuttle",
+"Area Shuttle",
+"Health/Fitness Center",
+"Kitchenette",
+"No Pets Allowed",
+"Spa",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn & Suites Monterrey Apodaca Zona Airport",
+brand: "holiday-inn",
+address_text: "Carretera Miguel Alemán 120, Parque Industrial Milimex, Apodaca 66601, Mexico",
+rating: 4.8,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/apodaca/mtymi/hoteldetail",
+latitude: 25.753056,
+longitude: -100.196261,
+amenities: [
+"Pool",
+"Wireless Internet",
+"No Pets Allowed",
+"Kids Eat Free",
+"Business Center",
+"Kitchenette",
+"Health/Fitness Center",
+"Airport Shuttle",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Monterrey Norte",
+brand: "holiday-inn",
+address_text: "Av. Universidad Norte: 101, Col. El Roble, Monterrey 66450, Mexico",
+rating: 4.6,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/monterrey/mtymx/hoteldetail",
+latitude: 25.7393,
+longitude: -100.30274,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"No Pets Allowed",
+"Kids Eat Free",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Monterrey-Parque Fundidora",
+brand: "holiday-inn",
+address_text: "Retorno Fundidora : 100, Col. Obrera, Monterrey 64010, Mexico",
+rating: 4.4,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/monterrey/mtycc/hoteldetail",
+latitude: 25.67617,
+longitude: -100.288798,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express Monterrey - Fundidora",
+brand: "holiday-inn-express",
+address_text: "Av. Fundidora #200, Col. Obrera, Monterrey 64010, Mexico",
+rating: 4.3,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/monterrey/mtyfu/hoteldetail",
+latitude: 25.67684793,
+longitude: -100.29029537,
+amenities: [
+"Free Breakfast",
+"Wireless Internet",
+"No Pets Allowed",
+"Kids Eat Free",
+"Business Center",
+"Health/Fitness Center",
+"Parking Included"
+]
+},
+{
+name: "Crowne Plaza Monterrey",
+brand: "crowne-plaza",
+address_text: "Av. Constitucion Oriente : 300, Col. Centro, Monterrey 64000, Mexico",
+rating: 4.5,
+url: "https://www.ihg.com/crowneplaza/hotels/us/en/monterrey/mtypl/hoteldetail",
+latitude: 25.66475,
+longitude: -100.314145,
+amenities: [
+"Indoor Pool",
+"Wireless Internet",
+"Health/Fitness Center",
+"No Pets Allowed",
+"Business Center",
+"Area Shuttle",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express Monterrey Tecnologico",
+brand: "holiday-inn-express",
+address_text: "AV. EUGENIO GARZA SADA : 3680 SUR, COLONIA VILLA LOS PINOS, MONTERREY 64770, Mexico",
+rating: 4.2,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/monterrey/mtyeg/hoteldetail",
+latitude: 25.636685,
+longitude: -100.284113,
+amenities: [
+"Free Breakfast",
+"Indoor Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Area Shuttle",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express & Suites Monterrey Valle",
+brand: "holiday-inn-express",
+address_text: "Vasconcelos 345 Oriente, Col. Santa Engracia, San Pedro Garza Garcia, Monterrey 66267, Mexico",
+rating: 4.6,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/monterrey/mtyrr/hoteldetail",
+latitude: 25.653571,
+longitude: -100.348344,
+amenities: [
+"Free Breakfast",
+"Wireless Internet",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Business Center",
+"Area Shuttle",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express Monterrey Galerias-Sn Jeronimo",
+brand: "holiday-inn-express",
+address_text: "Av. San Jeronimo : 1082, Col. San Jeronimo, Monterrey 64640, Mexico",
+rating: 4.5,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/monterrey/mtysj/hoteldetail",
+latitude: 25.674062,
+longitude: -100.365475,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Monterrey Valle",
+brand: "holiday-inn",
+address_text: "Lazaro Cardenas 2305, Colonia Residencial San Agustin, San Pedro Garza Garcia, Monterrey 66260, Mexico",
+rating: 4.3,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/monterrey/mtyzv/hoteldetail",
+latitude: 25.650699,
+longitude: -100.331313,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Area Shuttle",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Staybridge Suites Monterrey - San Pedro",
+brand: "staybridge-suites",
+address_text: "Calzada San Pedro : 103, Col. Del Valle, San Pedro Garza Garcia, Monterrey 66220, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/staybridge/hotels/us/en/monterrey/mtysp/hoteldetail",
+latitude: 25.65838,
+longitude: -100.3694,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Full Kitchen",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn & Suites Aguascalientes",
+brand: "holiday-inn",
+address_text: "Carreterra Panamericana Sur KM. 52, Aguascalientes 20283, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/aguascalientes/agugp/hoteldetail",
+latitude: 21.8152256,
+longitude: -102.286153,
+amenities: [
+"Free Breakfast",
+"Indoor Pool",
+"Wireless Internet",
+"Pets Allowed",
+"Kids Eat Free",
+"Kitchenette",
+"Airport Shuttle",
+"Health/Fitness Center",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Resort Acapulco",
+brand: "holiday-inn",
+address_text: "Av Costera Miguel Aleman 2311, Acapulco 39690, Mexico",
+rating: 4.3,
+url: "https://www.ihg.com/holidayinnresorts/hotels/us/en/acapulco/acacc/hoteldetail",
+latitude: 16.8559,
+longitude: -99.86055,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Acapulco La Isla",
+brand: "holiday-inn",
+address_text: "Blvd. De Las Naciones : 2000, Col. La Zanja, Acapulco 39907, Mexico",
+rating: 4.8,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/acapulco/acali/hoteldetail",
+latitude: 16.78875,
+longitude: -99.79865,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Pets Allowed",
+"Airport Shuttle",
+"Health/Fitness Center",
+"Kids Eat Free",
+"Area Shuttle",
+"Business Center",
+"Parking Included"
+]
+},
+{
+name: "InterContinental Hotels Presidente Cancun Resort",
+brand: "intercontinental",
+address_text: "BLVD KUKULKAN KM 7.5, ZONA HOTELERA, CANCUN 77500, Mexico",
+rating: 4.6,
+url: "https://www.ihg.com/intercontinental/hotels/us/en/cancun/cunhc/hoteldetail",
+latitude: 21.1356,
+longitude: -86.763,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Pets Allowed",
+"Business Center",
+"Health/Fitness Center",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express Cd. del Carmen",
+brand: "holiday-inn-express",
+address_text: "Av. Concordia, Por Calle Universidad S/N Col. Petrolera, Ciudad del Carmen 24180, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/ciudad-del-carmen/cmegs/hoteldetail",
+latitude: 18.64921,
+longitude: -91.81564,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Wireless Internet",
+"Pets Allowed",
+"Business Center",
+"Airport Shuttle",
+"Health/Fitness Center",
+"Full Kitchen",
+"Kids Eat Free",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Cd. del Carmen",
+brand: "holiday-inn",
+address_text: "Calle 31 : 274, Col. Benito Juarez, Ciudad Del Carmen 24180, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/ciudad-del-carmen/cmemx/hoteldetail",
+latitude: 18.63863,
+longitude: -91.83339,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Wireless Internet",
+"Pets Allowed",
+"Business Center",
+"Airport Shuttle",
+"Health/Fitness Center",
+"Kitchenette",
+"Kids Eat Free",
+"Parking Included"
+]
+},
+{
+name: "Kimpton Aluna Tulum",
+brand: "kimpton",
+address_text: "Av. Itzamna Poligono 0014, Lote 1 - 11, Aldea Zama, Tulum 77760, Mexico",
+rating: null,
+url: "https://www.ihg.com/kimptonhotels/hotels/us/en/aluna-tulum-mexico/tuytq/hoteldetail",
+latitude: 20.20149,
+longitude: -87.45091,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Pets Allowed",
+"Health/Fitness Center",
+"Business Center",
+"Spa",
+"Parking Included"
+]
+},
+{
+name: "Mr & Mrs Smith Coqui Coqui Coba",
+brand: "mr-and-mrs-smith",
+address_text: "Carretera Costera Laguna s/n Solida, Coba Carretera Costera Laguna s/n Solida, Coba, Mexico",
+rating: null,
+url: "https://www.ihg.com/mrandmrssmith/hotels/us/en/yucatan-peninsula/midcr/hoteldetail",
+latitude: 20.4892121,
+longitude: -87.7399976,
+amenities: [
+"Pool",
+"Pets Allowed"
+]
+},
+{
+name: "Holiday Inn Express & Suites Ciudad Obregon",
+brand: "holiday-inn-express",
+address_text: "Av. Miguel Aleman 737 Nte., Col. Zona Norte, Ciudad Obregon 85040, Mexico",
+rating: 4.8,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/ciudad-obregon/cenar/hoteldetail",
+latitude: 27.497308,
+longitude: -109.930492,
+amenities: [
+"Indoor Pool",
+"Wireless Internet",
+"Airport Shuttle",
+"Health/Fitness Center",
+"Kitchenette",
+"Kids Eat Free",
+"No Pets Allowed",
+"Business Center",
+"Area Shuttle",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn & Suites Chihuahua",
+brand: "holiday-inn",
+address_text: "Calle J. Escudero : 702, Col. San Felipe, Chihuahua 31203, Mexico",
+rating: 4.8,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/chihuahua/cuumx/hoteldetail",
+latitude: 28.6453,
+longitude: -106.0806,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Indoor Pool",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kitchenette",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express & Suites Chihuahua Juventud",
+brand: "holiday-inn-express",
+address_text: "PASEO VISTAS DEL SOL 6403, FRACCIONAMIENTO COMERCIAL VISTAS DEL SOL, CHIHUAHUA 31206, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/chihuahua/cuugt/hoteldetail",
+latitude: 28.626546,
+longitude: -106.119869,
+amenities: [
+"Free Breakfast",
+"Indoor Pool",
+"Wireless Internet",
+"Business Center",
+"Area Shuttle",
+"Health/Fitness Center",
+"Kitchenette",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Staybridge Suites Chihuahua",
+brand: "staybridge-suites",
+address_text: "CALLE PASEO VISTAS DEL SOL 6803, FRACC. COMERCIAL VISTAS DEL SOL, CHIHUAHUA 31206, Mexico",
+rating: 4.8,
+url: "https://www.ihg.com/staybridge/hotels/us/en/chihuahua/cuusb/hoteldetail",
+latitude: 28.625722,
+longitude: -106.121778,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Pets Allowed",
+"Business Center",
+"Area Shuttle",
+"Health/Fitness Center",
+"Full Kitchen",
+"Kids Eat Free",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express Chihuahua",
+brand: "holiday-inn-express",
+address_text: "Av. Cristobal Colon : 11390, Complejo Industrial Chihuahua, Chihuahua 31136, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/chihuahua/cuuci/hoteldetail",
+latitude: 28.7144,
+longitude: -106.1352,
+amenities: [
+"Free Breakfast",
+"Pool",
+"Wireless Internet",
+"Business Center",
+"Area Shuttle",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Coatzacoalcos",
+brand: "holiday-inn",
+address_text: "Blvd. Malecon Costero #4, Colonia El Tesoro C.P., Coatzacoalcos 96536, Mexico",
+rating: 4.4,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/coatzacoalcos/mttco/hoteldetail",
+latitude: 18.150083,
+longitude: -94.494202,
+amenities: [
+"Pool",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express Mexico Reforma",
+brand: "holiday-inn-express",
+address_text: "Paseo de la Reforma #208, Col. Juarez, Esq. Napoles, Ciudad de Mexico 06600, Mexico",
+rating: 4.3,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/mexico/mexre/hoteldetail",
+latitude: 19.4307,
+longitude: -99.16,
+amenities: [
+"Free Breakfast",
+"Wireless Internet",
+"Business Center",
+"Kitchenette",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Mexico Buenavista ",
+brand: "holiday-inn",
+address_text: "Mariano Azuela #12, Col. Santa Maria La Ribera, Ciudad de Mexico 06400, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/mexico/mexbu/hoteldetail",
+latitude: 19.44207,
+longitude: -99.155249,
+amenities: [
+"Pool",
+"Wireless Internet",
+"Health/Fitness Center",
+"No Pets Allowed",
+"Kids Eat Free",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn & Suites Mexico Zona Reforma",
+brand: "holiday-inn",
+address_text: "Londres : 15, Col. Juarez, Ciudad de Mexico 06600, Mexico",
+rating: 4.4,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/mexico/mexzr/hoteldetail",
+latitude: 19.4286,
+longitude: -99.1586,
+amenities: [
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Kitchenette",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express Mexico Basilica",
+brand: "holiday-inn-express",
+address_text: "Calzada Guadalupe No. 54, Col. Exhipodromo de Peralvillo, Del. Cuauhtemoc, Mexico City 06250, Mexico",
+rating: 4.8,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/mexico-city/mexba/hoteldetail",
+latitude: 19.4561452,
+longitude: -99.1290561,
+amenities: [
+"Free Breakfast",
+"Wireless Internet",
+"No Pets Allowed",
+"Kids Eat Free",
+"Business Center",
+"Health/Fitness Center",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Mexico Dali Airport",
+brand: "holiday-inn",
+address_text: "Viaducto Rio de la Piedad: 260, Col. Magdalena Mixhuca, Ciudad de Mexico 15860, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/mexico/mexpd/hoteldetail",
+latitude: 19.405721,
+longitude: -99.119144,
+amenities: [
+"Wireless Internet",
+"Pets Allowed",
+"Business Center",
+"Airport Shuttle",
+"Health/Fitness Center",
+"Kids Eat Free",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express Mexico Aeropuerto",
+brand: "holiday-inn-express",
+address_text: "RIO CHURUBUSCO 253, COL. GRANJAS MEXICO, Ciudad de Mexico 08400, Mexico",
+rating: 4.6,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/mexico-city/mexai/hoteldetail",
+latitude: 19.400636,
+longitude: -99.098907,
+amenities: [
+"Free Breakfast",
+"Wireless Internet",
+"Business Center",
+"Airport Shuttle",
+"Health/Fitness Center",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Ciudad de Mexico-Trade Center",
+brand: "holiday-inn",
+address_text: "Av Revolucion: 583, Col. San Pedro De Los Pinos, Ciudad de Mexico 03800, Mexico",
+rating: 4.5,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/mexico/mextc/hoteldetail",
+latitude: 19.387755,
+longitude: -99.186363,
+amenities: [
+"Wireless Internet",
+"Area Shuttle",
+"Health/Fitness Center",
+"No Pets Allowed",
+"Kids Eat Free",
+"Business Center",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Mexico City-Plaza Universidad",
+brand: "holiday-inn",
+address_text: "Parroquia : 1056, Col. Santa Cruz Atoyac, Ciudad de Mexico 03310, Mexico",
+rating: 4.6,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/mexico/mexaa/hoteldetail",
+latitude: 19.367936,
+longitude: -99.162421,
+amenities: [
+"Wireless Internet",
+"Health/Fitness Center",
+"Kitchenette",
+"Kids Eat Free",
+"No Pets Allowed",
+"Spa",
+"Parking Included"
+]
+},
+{
+name: "InterContinental Hotels Presidente Mexico City",
+brand: "intercontinental",
+address_text: "Campos Eliseos 218, Col. Chapultepec Polanco, Del. Miguel Hidalgo, Ciudad de Mexico 11560, Mexico",
+rating: 4.5,
+url: "https://www.ihg.com/intercontinental/hotels/us/en/mexico/mexha/hoteldetail",
+latitude: 19.42798,
+longitude: -99.19327,
+amenities: [
+"Wireless Internet",
+"Pets Allowed",
+"Business Center",
+"Health/Fitness Center",
+"Kitchenette",
+"Spa",
+"Parking Included"
+]
+},
+{
+name: "Crowne Plaza Mexico Norte Tlalnepantla",
+brand: "crowne-plaza",
+address_text: "AV. ROBERTO FULTON : 2-A, COL. SAN LORENZO, TLALNEPANTLA 54030, Mexico",
+rating: 4.5,
+url: "https://www.ihg.com/crowneplaza/hotels/us/en/tlalnepantla/mexlm/hoteldetail",
+latitude: 19.5389,
+longitude: -99.2032,
+amenities: [
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"No Pets Allowed",
+"Area Shuttle",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn & Suites Mexico Medica Sur",
+brand: "holiday-inn",
+address_text: "Puente de Piedra 150, Col. Toriello Guerra, Delegacion Tlalpan, Ciudad de Mexico 14050, Mexico",
+rating: 4.5,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/mexico/mexms/hoteldetail",
+latitude: 19.29731,
+longitude: -99.15244,
+amenities: [
+"Wireless Internet",
+"Business Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Health/Fitness Center",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express Mexico - Toreo",
+brand: "holiday-inn-express",
+address_text: "Av. Primero de Mayo 226, Col. San Andres Atoto, Naucalpan 53500, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/naucalpan/mexan/hoteldetail",
+latitude: 19.465718,
+longitude: -99.229887,
+amenities: [
+"Free Breakfast",
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"No Pets Allowed",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Mexico Santa Fe",
+brand: "holiday-inn",
+address_text: "Guillermo Gonzalez Camarena 1400 -A, Centro Ciudad Santa Fe, Ciudad de Mexico 01210, Mexico",
+rating: 4.5,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/mexico-city/mexjc/hoteldetail",
+latitude: 19.364194,
+longitude: -99.265278,
+amenities: [
+"Wireless Internet",
+"Business Center",
+"Health/Fitness Center",
+"Kitchenette",
+"Kids Eat Free",
+"No Pets Allowed",
+"Area Shuttle",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Express Mexico Santa Fe",
+brand: "holiday-inn-express",
+address_text: "Guillermo Gonzalez Camarena 1400, Col Centro De Ciudad Santa Fe, Ciudad de Mexico 01210, Mexico",
+rating: 4.3,
+url: "https://www.ihg.com/holidayinnexpress/hotels/us/en/mexico/mexsf/hoteldetail",
+latitude: 19.364558,
+longitude: -99.265114,
+amenities: [
+"Free Breakfast",
+"Wireless Internet",
+"Business Center",
+"Kids Eat Free",
+"No Pets Allowed",
+"Area Shuttle",
+"Parking Included"
+]
+},
+{
+name: "InterContinental Hotels Presidente Santa Fe Mexico",
+brand: "intercontinental",
+address_text: "AV. JUAN SALVADOR AGRAZ : 97, SANTA FE, CUAJIMALPA, Ciudad de Mexico 05300, Mexico",
+rating: 4.7,
+url: "https://www.ihg.com/intercontinental/hotels/us/en/mexico/mexhb/hoteldetail",
+latitude: 19.358603,
+longitude: -99.277619,
+amenities: [
+"Wireless Internet",
+"Pets Allowed",
+"Business Center",
+"Health/Fitness Center",
+"Kitchenette",
+"Spa",
+"Parking Included"
+]
+},
+{
+name: "Holiday Inn Ciudad De Mexico Perinorte",
+brand: "holiday-inn",
+address_text: "Av. Doctor Gustavo Baz : 4873, Col. San Pedro Barrientos, TLALNEPANTLA 54010, Mexico",
+rating: 4.4,
+url: "https://www.ihg.com/holidayinn/hotels/us/en/tlalnepantla/mextl/hoteldetail",
+latitude: 19.58397,
+longitude: -99.203042,
+amenities: [
+"Indoor Pool",
+"Wireless Internet",
+"Business Center",
+"Area Shuttle",
+"Health/Fitness Center",
+"Kitchenette",
+"Kids Eat Free",
+"No Pets Allowed",
+"Parking Included"
+]
+}
+]
