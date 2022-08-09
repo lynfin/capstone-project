@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import Login from './Login';
 import MapPage from './MapPage';
+import 'mapbox-gl/dist/mapbox-gl.css';
 
 function App() {
   const [user, setUser] = useState(null);
